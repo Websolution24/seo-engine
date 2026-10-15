@@ -1,0 +1,2 @@
+# Example input only. Running analyze_serp requires your paid API account.
+plombier Sarlat
